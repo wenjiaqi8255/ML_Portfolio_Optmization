@@ -1,0 +1,36 @@
+,,,,
+,"variables_to_keep = [
+    # 基准特征
+    'Size', 'bm', 'Momentum',
+    
+    # 股票水平预测器
+    'ShortTermReversal', 'ME', 'market_cap', 'DollarVolume', 'spread',
+    'RET', 'Idio_vol', 'Beta', 'BetaSquared',
+    
+    # 宏观经济预测器
+    'divyield', 'pe_op_basic', 'pe_op_dil', 'TB3MS', 'T10Y2Y', 'BAA10Y',
+    
+    # 其他重要财务指标
+    'roa', 'roe', 'roce', 'debt_assets', 'debt_capital', 'de_ratio',
+    'cash_ratio', 'quick_ratio', 'curr_ratio', 'at_turn', 'inv_turn',
+    'accrual',
+    
+    # 价格和交易相关
+    'PRC', 'VOL', 'SHROUT', 'BIDLO', 'ASKHI', 'OPENPRC',
+    
+    # 市场回报指标
+    'vwretd', 'ewretd', 'sprtrn',
+    
+    # 其他可能有用的指标
+    'dpr', 'npm', 'opmbd', 'opmad', 'gpm', 'cfm', 'efftax', 'ps',
+    'debt_ebitda', 'lt_ppent', 'dltt_be', 'capital_ratio',
+    'rect_turn', 'pay_turn', 'cash_conversion',
+    'cash_lt', 'debt_at', 'profit_lct', 'ocf_lct',
+    'cash_debt', 'fcf_ocf', 'rd_sale', 'adv_sale', 'staff_sale',
+    
+    # 其他计算得到的指标
+    'LME', 'LTurnover',
+    
+    # 标识符
+    'TICKER'
+]",,,
