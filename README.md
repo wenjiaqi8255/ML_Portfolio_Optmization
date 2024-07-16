@@ -1,7 +1,7 @@
 # Purpose
-This repository contains work regarding the BA Final Project.
+This repository contains work regarding the Business Analytics Final Project.
 
-# Libraries to use.
+# Libraries used.
 - Pandas
 - Numpy
 - Statsmodels
@@ -12,6 +12,7 @@ This repository contains work regarding the BA Final Project.
 - Pytorch
 - Matplotlib
 - sklearn
+- Missingno
 
 # Tasks
 - Data Preparation
