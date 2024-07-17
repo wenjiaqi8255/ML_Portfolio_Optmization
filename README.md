@@ -4,8 +4,6 @@ This repository contains work regarding the Business Analytics Final Project.
 # Libraries used.
 - Pandas
 - Numpy
-- Statsmodels
-- Gurobi
 - Seaborn
 - Sci-kit Learn
 - XGBoost
