@@ -1,5 +1,5 @@
 # Purpose
-This repository contains work regarding the Business Analytics Final Project.
+This repository contains work regarding an analysis of Warren Buffet's portfolio.
 
 # Libraries used.
 - Pandas
@@ -7,13 +7,8 @@ This repository contains work regarding the Business Analytics Final Project.
 - Seaborn
 - Sci-kit Learn
 - XGBoost
-- Pytorch
 - Matplotlib
-- sklearn
-- Missingno
 
-# Tasks
-- Data Preparation
-- Descriptive Statistics
-- Predictive Stats
-- Prescriptive Stats
+
+# Conclusion
+We find that Buffet is overexposed to larger companies like Apple. 
